@@ -51,7 +51,7 @@ pip install PyQt6 chardet
 スクリプトを実行してGUIを立ち上げます。
 
 ```bash
-python main.py
+python cuesplitergui.py
 ```
 
 ### 2. 操作手順
